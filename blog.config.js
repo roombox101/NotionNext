@@ -218,11 +218,11 @@ const BLOG = {
             'https://p2.music.126.net/au2lgaIzWFjaSKAj37RyKg==/18498183627595225.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: 'もののけ姫',
+      artist: '宗次郎',
+      url: 'https://m10.music.126.net/20231126130632/5a4530a5d7f63cf7229b3c0ff7cd9ba6/ymusic/e328/5de6/31f0/e67727476f27eb13dbceea029f1db445.mp3',
       cover:
-            'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://p2.music.126.net/OLR8pDUR87SV2mXR7YfZuQ==/683896232488507.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
