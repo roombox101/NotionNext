@@ -213,14 +213,14 @@ const BLOG = {
     {
       name: 'Stratosphere',
       artist: 'RIGHT STUFF',
-      url: 'https://m10.music.126.net/20231126125129/2084a1e6fb4a26adf2781d4094ed1fbb/ymusic/d9d5/e3bc/f8ac/51d5491f9cb657a0c3a23c0b45e052b3.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=474932220.mp3',
       cover:
             'https://p2.music.126.net/au2lgaIzWFjaSKAj37RyKg==/18498183627595225.jpg'
     },
     {
       name: 'もののけ姫',
       artist: '宗次郎',
-      url: 'https://m10.music.126.net/20231126130632/5a4530a5d7f63cf7229b3c0ff7cd9ba6/ymusic/e328/5de6/31f0/e67727476f27eb13dbceea029f1db445.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=4904689.mp3',
       cover:
             'https://p2.music.126.net/OLR8pDUR87SV2mXR7YfZuQ==/683896232488507.jpg'
     }
