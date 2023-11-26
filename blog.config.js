@@ -223,6 +223,13 @@ const BLOG = {
       url: 'https://music.163.com/song/media/outer/url?id=4904689.mp3',
       cover:
             'https://p2.music.126.net/OLR8pDUR87SV2mXR7YfZuQ==/683896232488507.jpg'
+    },
+    {
+      name: '흰 회화나무 숲',
+      artist: '全秀妍',
+      url: 'https://music.163.com/song/media/outer/url?id=412951723.mp3',
+      cover:
+            'https://p1.music.126.net/Qz3m7tbW4bht2DfwdIBBhw==/1388683195747045.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
