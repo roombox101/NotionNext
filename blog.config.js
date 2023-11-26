@@ -211,11 +211,11 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      name: 'Stratosphere',
+      artist: 'RIGHT STUFF',
+      url: 'https://m10.music.126.net/20231126125129/2084a1e6fb4a26adf2781d4094ed1fbb/ymusic/d9d5/e3bc/f8ac/51d5491f9cb657a0c3a23c0b45e052b3.mp3',
       cover:
-            'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://p2.music.126.net/au2lgaIzWFjaSKAj37RyKg==/18498183627595225.jpg'
     },
     {
       name: '王都グランセル',
